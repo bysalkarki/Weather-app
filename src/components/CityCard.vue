@@ -22,10 +22,6 @@
         </span>
       </div>
     </div>
-
-    <div class="flex flex-col gap-2">
-        <i class="fa-solid fa-trash text-3xl ml-2 text-red-600" @click=""></i>
-    </div>
   </div>
 </template>
 

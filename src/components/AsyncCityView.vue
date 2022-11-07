@@ -41,7 +41,6 @@
         {{ Math.round(weatherData.main.temp) }}&deg;
       </p>
       <p>
-        Feels like
         {{ Math.round(weatherData.main.feels_like) }} &deg;
       </p>
       <p class="capitalize">
