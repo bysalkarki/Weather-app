@@ -41,6 +41,44 @@
         </template>
       </Suspense>
     </div>
+                <div
+              id="bookmundi_widget_container_"
+              class="bookmundi_widget_container"
+              data-widget-name="Widget Title"
+              data-widget-width="700" 
+              data-widget-alignment="horizontal" 
+              data-agency-code="" 
+              data-agency-url="*" data-widget-type="product" 
+              data-product-widget-type="destination" 
+              data-tour-type="all" 
+              data-tour-limit="3" 
+              data-show-search="1" 
+              data-selected-search="" 
+              data-selected-activity="" 
+              data-selected-search-type="destination" 
+              data-currency="USD">
+            </div>
+            <script async src="https://assets.bookmundi.com/production/resources/widget/loader.js"></script>
+
+                        <div
+              id="bookmundi_widget_container_QdTFsKV24ILZLZIO1zTAQmLCyZfE9Xjc"
+              class="bookmundi_widget_container"
+              data-widget-name="Nepal Tours"
+              data-widget-width="450.00" 
+              data-widget-alignment="vertical" 
+              data-agency-code="QdTFsKV24ILZLZIO1zTAQmLCyZfE9Xjc" 
+              data-agency-url="*" data-widget-type="product" 
+              data-product-widget-type="destination" 
+              data-tour-type="all" 
+              data-tour-limit="4" 
+              data-show-search="1" 
+              data-selected-search="Nepal" 
+              data-selected-activity="" 
+              data-selected-search-type="country" 
+              data-currency="USD">
+            </div>
+            <script async src="https://assets.bookmundi.com/production/resources/widget/loader.js"></script>
+
   </main>
 </template>
 
