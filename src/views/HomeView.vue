@@ -17,7 +17,7 @@
               data-selected-search-type="destination" 
               data-currency="USD">
             </div>
-            <script async src="https://assets.bookmundi.com/production/resources/widget/loader.js"></script>
+           
 
                         <div
               id="bookmundi_widget_container_QdTFsKV24ILZLZIO1zTAQmLCyZfE9Xjc"
@@ -36,7 +36,6 @@
               data-selected-search-type="country" 
               data-currency="USD">
             </div>
-            <script async src="https://assets.bookmundi.com/production/resources/widget/loader.js"></script>
     <div class="pt-4 mb-8 relative">
       <input
         type="text"
@@ -82,6 +81,8 @@
 
   </main>
 </template>
+ <script async src="https://assets.bookmundi.com/production/resources/widget/loader.js"></script>
+<script async src="https://assets.bookmundi.com/production/resources/widget/loader.js"></script>
 
 <script setup>
 import { ref } from "vue";
